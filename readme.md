@@ -1,4 +1,4 @@
 - [Perspective](https://seapusher.github.io)
 - [Orthographic](https://seapusher.github.io/ortho)
 - [Fixed Aspect / Perspective](https://seapusher.github.io/fixed/)
-- [Fixed Aspect / Orthographic](https://seapusher.github.io/fixed/?ortho)
+- [Fixed Aspect / Orthographic](https://seapusher.github.io/fixed/game.html?ortho)
